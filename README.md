@@ -4,14 +4,14 @@
 
 I'm a Biotechnology Engineering graduate interested in **bioinformatics, transcriptomics, and computational biology**, with hands-on research experience in biological data analysis.
 
-## 🔬 Current Research
+## 🔬 Research Experience
 
 **Research Intern — REVA University**
 
 - Worked with **RNA-Seq datasets**
-- Transcriptomics analysis of pediatric neoplasms
-- Explored computational approaches for biological data analysis
-
+- Performed transcriptomics analysis related to pediatric neoplasms
+- Worked with computational approaches for biological data analysis
+  
 ## 🧬 Research & Project Interests
 
 - RNA-Seq & Transcriptomics
@@ -31,7 +31,7 @@ I'm a Biotechnology Engineering graduate interested in **bioinformatics, transcr
 
 ## 📌 Featured Work
 
-Coming soon — selected research projects and bioinformatics workflows.
+Selected research projects and bioinformatics workflows will be added here.
 
 ## 📫 Connect
 
