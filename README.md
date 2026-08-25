@@ -59,22 +59,21 @@ Molecular docking and ADME/toxicity screening to identify candidate therapeutic 
 **Platforms:** `Google Colab` `VS Code` `Excel`
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanatharav&show_icons=true&theme=dark_dimmed&hide_border=true" alt="GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatharav&layout=compact&theme=dark_dimmed&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanatharav&show_icons=true&theme=dark_dimmed&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatharav&layout=compact&theme=dark_dimmed&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nayanatharav&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center"><i>Open to research and industry opportunities in bioinformatics and computational biology.</i></p>
+<p align="center">
+  <i>Open to research and industry opportunities in bioinformatics and computational biology.</i>
+</p>
+
 ---
 
 ## 📫 Connect
