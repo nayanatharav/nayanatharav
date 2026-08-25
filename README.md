@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Nayanathara 👋
 
-<!--
-**nayanatharav/nayanatharav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biotechnology Engineer | Bioinformatics | Computational Biology
 
-Here are some ideas to get you started:
+I'm a Biotechnology Engineering graduate interested in **bioinformatics, transcriptomics, and computational biology**, with hands-on research experience in biological data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Research
+
+**Research Intern — REVA University**
+
+- Worked with **RNA-Seq datasets**
+- Transcriptomics analysis of pediatric neoplasms
+- Explored computational approaches for biological data analysis
+
+## 🧬 Research & Project Interests
+
+- RNA-Seq & Transcriptomics
+- NGS Data Analysis
+- Cancer Bioinformatics
+- Computational Biology
+- CRISPR & gRNA Design
+- Biological Data Analysis
+
+## 🛠️ Tools & Technologies
+
+**Programming:** Python | R | Bash
+
+**Bioinformatics:** RNA-Seq | NGS | Sequence Analysis | Transcriptomics
+
+**Tools:** Linux | Git | GitHub
+
+## 📌 Featured Work
+
+Coming soon — selected research projects and bioinformatics workflows.
+
+## 📫 Connect
+
+[LinkedIn](www.linkedin.com/in/nayanathara-v-a2304129b)
