@@ -38,32 +38,43 @@ Molecular docking and ADME/toxicity screening to identify candidate therapeutic 
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-**Programming & Platforms**
-`Python` · `Linux` · `Docker` · `Git/GitHub` · `Google Colab` · `VS Code` · `Excel`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-**RNA-Seq / NGS Analysis**
-`DESeq2` · `GATK` · `Picard` · `SnpEff` · `DAVID` · `miRNet` · `Cytoscape`
+**NGS & Pipelines:** `GATK` `Picard` `SnpEff` `DAVID` `miRNet` `Cytoscape`
 
-**Genome Editing**
-`CHOPCHOP` · `CRISPOR` · `Cas-OFFinder` · `vcf2circos`
+**Genome Editing:** `CHOPCHOP` `CRISPOR` `Cas-OFFinder` `vcf2circos`
 
-**Molecular Docking**
-`PyMOL` · `SwissDock` · `PyRx` · `SwissADME` · `SwissTargetPrediction`
+**Structural / Docking:** `PyMOL` `SwissDock` `PyRx` `SwissADME` `SwissTargetPrediction`
+
+**Databases:** `NCBI` `Ensembl` `GEO` `UniProt` `ClinVar` `BLAST`
+
+**Platforms:** `Google Colab` `VS Code` `Excel`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanatharav&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanatharav&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanatharav&show_icons=true&theme=dark_dimmed&hide_border=true" alt="GitHub Stats" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatharav&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatharav&layout=compact&theme=dark_dimmed&hide_border=true" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayanatharav&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center"><i>Open to research and industry opportunities in bioinformatics and computational biology.</i></p>
 ---
 
 ## 📫 Connect
