@@ -62,8 +62,11 @@ Molecular docking and ADME/toxicity screening to identify candidate therapeutic 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanatharav&show_icons=true&theme=dark_dimmed&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatharav&layout=compact&theme=dark_dimmed&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="./github-stats.svg" alt="GitHub Stats" width="850"/>
+</p>
+
+<p align="center">
+  <img src="./github-languages.svg" alt="Most Used Languages" width="850"/>
 </p>
 
 <p align="center">
