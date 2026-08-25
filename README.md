@@ -54,7 +54,7 @@ Molecular docking and ADME/toxicity screening to identify candidate therapeutic 
 
 **Structural / Docking:** `PyMOL` `SwissDock` `PyRx` `SwissADME` `SwissTargetPrediction`
 
-**Databases:** `NCBI` `Ensembl` `GEO` `UniProt` `ClinVar` `BLAST`
+**Databases:** `NCBI` `Ensembl` `GEO` `UniProt` `ClinVar` `BLAST` `UCSC Genome Browser`
 
 **Platforms:** `Google Colab` `VS Code` `Excel`
 
