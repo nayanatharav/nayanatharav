@@ -1,43 +1,79 @@
-# Hi, I'm Nayanathara 👋
+# Hi, I'm Nayanathara V 👋
 
 ### Biotechnology Engineer | Bioinformatics | Computational Biology
 
-I'm a Biotechnology Engineering graduate interested in **bioinformatics, transcriptomics, and computational biology**, with hands-on research experience in biological data analysis.
+I'm a Biotechnology Engineering graduate (B.E)., @GM Institute of Technology, Davangere — hands-on research experience in **transcriptomics, genome editing, and computational drug discovery**. I work at computational analysis, translating biological questions into reproducible data workflows.
+
+---
 
 ## 🔬 Research Experience
 
-**Research Intern — REVA University**
+**Research Intern — REVA University, Bengaluru** *(Feb 2026 – May 2026)*
+- Worked on transcriptomics and multi-omics analysis of **pediatric cancers (medulloblastoma and glioblastoma)**
+- Performed **SnpEff 5.4c variant annotation** (GRCh38.99) on a combined GBM/medulloblastoma RNA-Seq dataset of 30 samples
+- Interpreted oncogenic drivers including **SMARCA4, DDX3X, CTNNB1, EGFR, TP53, and IDH1/2**
 
-- Worked with **RNA-Seq datasets**
-- Performed transcriptomics analysis related to pediatric neoplasms
-- Worked with computational approaches for biological data analysis
+**Technical Training — Amplikon Biosystem, Hyderabad**
+- Hands-on training in molecular biology techniques
 
-### CRISPR & gRNA Design
-**Major Academic Project**
+---
 
-Worked on **gRNA design for CRISPR-based repair of an SRD5A3 mutation**, exploring computational approaches for targeted genome editing.
-  
-## 🧬 Research & Project Interests
+## 🧬 Featured Projects
 
-- RNA-Seq & Transcriptomics
-- NGS Data Analysis
-- Cancer Bioinformatics
-- Computational Biology
-- CRISPR & gRNA Design
-- Biological Data Analysis
+### CRISPR/Cas9 gRNA Design for SRD5A3-CDG
+*Major Academic Project — Presented at CONFLUENCE 2025 (GM University International Conference)*
+Designed and validated guide RNAs for CRISPR-based repair of the **SRD5A3 nonsense variant (c.57G>A / p.Trp19Ter)** causing Congenital Disorder of Glycosylation (CDG), with structural modeling of the repair outcome.
+`CHOPCHOP` · `Cas-OFFinder` · `CRISPOR` · `PyMOL` · `RNAComposer` · `HDOCK`
+
+### In-Silico Drug analysis for Vitiligo
+*Minor Project — · Patent application Submitted*
+Molecular docking and ADME/toxicity screening to identify candidate therapeutic compounds for Vitiligo. Presented at a Kuvempu University international conference.
+`SwissDock` · `PyRx` · `SwissADME` · `SwissTargetPrediction` · `PyMOL`
+
+---
+
+## 🧠 Research Interests
+
+`RNA-Seq & Transcriptomics` · `Multi-Omics Analysis` · `Cancer Bioinformatics` · `CRISPR & Genome Editing` · `Computational Drug Discovery` · `Variant Analysis`
+
+---
 
 ## 🛠️ Tools & Technologies
 
-**Programming:** Python | R | Bash
+**Programming & Platforms**
+`Python` · `Linux` · `Docker` · `Git/GitHub` · `Google Colab` · `VS Code` · `Excel`
 
-**Bioinformatics:** RNA-Seq | NGS | Sequence Analysis | Transcriptomics
+**RNA-Seq / NGS Analysis**
+`DESeq2` · `GATK` · `Picard` · `SnpEff` · `DAVID` · `miRNet` · `Cytoscape`
 
-**Tools:** Linux | Git | GitHub
+**Genome Editing**
+`CHOPCHOP` · `CRISPOR` · `Cas-OFFinder` · `vcf2circos`
 
-## 📌 Featured Work
+**Molecular Docking**
+`PyMOL` · `SwissDock` · `PyRx` · `SwissADME` · `SwissTargetPrediction`
 
-Selected research projects and bioinformatics workflows will be added here.
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanatharav&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanatharav&theme=default" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanatharav&layout=compact&theme=default" alt="Top Languages"/>
+</p>
+
+---
 
 ## 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/nayanathara-v-a2304129b)
+<p>
+  <a href="https://www.linkedin.com/in/nayanathara-v-a2304129b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nayanatharav13@zohomail.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
