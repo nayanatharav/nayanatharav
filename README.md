@@ -11,6 +11,11 @@ I'm a Biotechnology Engineering graduate interested in **bioinformatics, transcr
 - Worked with **RNA-Seq datasets**
 - Performed transcriptomics analysis related to pediatric neoplasms
 - Worked with computational approaches for biological data analysis
+
+### CRISPR & gRNA Design
+**Major Academic Project**
+
+Worked on **gRNA design for CRISPR-based repair of an SRD5A3 mutation**, exploring computational approaches for targeted genome editing.
   
 ## 🧬 Research & Project Interests
 
