@@ -16,9 +16,7 @@ I'm a Biotechnology Engineering graduate (B.E)., @GM Institute of Technology, Da
 **Technical Training — Amplikon Biosystem, Hyderabad**
 - Hands-on training in molecular biology techniques
 
-**Docking Analysis — Research Assistance**
-
-**Support to ongoing PhD research | 2026**
+**Docking Analysis — Research Assistance, Support to ongoing PhD research | 2026**
 
 Completed assigned molecular docking tasks for a PhD research project using:
 
