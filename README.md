@@ -11,10 +11,23 @@ I'm a Biotechnology Engineering graduate (B.E)., @GM Institute of Technology, Da
 **Research Intern — REVA University, Bengaluru** *(Feb 2026 – May 2026)*
 - Worked on transcriptomics and multi-omics analysis of **pediatric cancers (medulloblastoma and glioblastoma)**
 - Performed **SnpEff 5.4c variant annotation** (GRCh38.99) on a combined GBM/medulloblastoma RNA-Seq dataset of 30 samples
-- Interpreted oncogenic drivers including **SMARCA4, DDX3X, CTNNB1, EGFR, TP53, and IDH1/2**
+- Interpreted oncogenic drivers including 
 
 **Technical Training — Amplikon Biosystem, Hyderabad**
 - Hands-on training in molecular biology techniques
+
+**Docking Analysis — Research Assistance**
+
+**Support to ongoing PhD research | 2026**
+
+Completed assigned molecular docking tasks for a PhD research project using:
+
+- **AutoDock Vina** — molecular docking
+- **RDKit** — ligand/cheminformatics handling
+- **PyMOL** — protein–ligand structural visualization
+- **Linux command line** — computational workflow execution
+
+The work involved preparing molecular structures, performing docking calculations, and visualizing and interpreting protein–ligand interactions.
 
 ---
 
