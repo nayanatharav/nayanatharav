@@ -11,7 +11,7 @@ I'm a Biotechnology Engineering graduate (B.E)., @GM Institute of Technology, Da
 **Research Intern — REVA University, Bengaluru** *(Feb 2026 – May 2026)*
 - Worked on transcriptomics and multi-omics analysis of **pediatric cancers (medulloblastoma and glioblastoma)**
 - Performed **SnpEff variant annotation** (GRCh38.99) on a combined GBM/medulloblastoma RNA-Seq dataset of 30 samples
-- Interpreted oncogenic drivers including 
+- Interpreted oncogenic drivers 
 
 **Technical Training — Amplikon Biosystem, Hyderabad**
 - Hands-on training in molecular biology techniques
